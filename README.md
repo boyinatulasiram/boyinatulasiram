@@ -28,7 +28,7 @@ From **DSA streaks** to **production-ready projects**, I focus on building skill
 ## 🏆 Consistency & Achievements  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/100%20Days-LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/365%20Days-LeetCode-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/100%20Days-CodeChef-brown?style=for-the-badge&logo=codechef" />
   <img src="https://img.shields.io/badge/Gold-HackerRank-green?style=for-the-badge&logo=hackerrank" />
 </p>
@@ -61,12 +61,12 @@ From **DSA streaks** to **production-ready projects**, I focus on building skill
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boyinatulasiram&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boyinatulasiram&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyinatulasiram&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
