@@ -3,7 +3,7 @@ Tulasiram Boyina
 11:39 (0 minutes ago)
 to me
 
-<h1 align="center">Hey 👋 I'm Tulasi Ram Boyina </h1>
+<h1 align="center">Hey 👋 I'm Tulasi Ram </h1>
 <h3 align="center">🚀 Consistent Problem Solver | Backend Developer | AI Explorer</h3>
 
 <p align="center">
