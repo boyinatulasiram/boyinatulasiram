@@ -4,7 +4,7 @@ Tulasiram Boyina
 to me
 
 <h1 align="center">Hey 👋 I'm Tulasi Ram </h1>
-<h3 align="center">🚀 Consistent Problem Solver | Backend Developer | AI Explorer</h3>
+<h3 align="center">🚀 Consistent Problem Solver | Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Consistency+over+Intensity;DSA+Everyday+Mindset;Building+Real-World+Software;Learning+Never+Stops" />
