@@ -1,106 +1,118 @@
-
-Tulasi Ram
-11:39 (0 minutes ago)
-to me
-
-<h1 align="center">Hey 👋 I'm Tulasi Ram Boyina</h1>
-<h3 align="center">🚀 Consistent Problem Solver | Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Tulasi Ram Boyina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Consistency+over+Intensity;DSA+Everyday+Mindset;Building+Real-World+Software;Learning+Never+Stops" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Backend+Developer;475%2B+DSA+Problems+Solved;ICPC+Prelims+AIR+1690;Reliance+Foundation+Scholar;Always+Learning+New+Things">
+  </a>
+</p>
+
+<br>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0047AB&style=plastic" height=25px/> 
 </p>
 
 ---
 
-## 🌈 About Me  
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me
 
-✨ I believe **showing up daily beats occasional brilliance**.  
-From **DSA streaks** to **production-ready projects**, I focus on building skills that last.
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
-- 🔁 Daily problem-solving habit  
-- 🧠 Strong CS fundamentals  
-- 💻 Backend & system-oriented thinking  
-- 🤖 Exploring AI/ML with real use-cases  
-- 🎮 Gamification + AR/VR for learning & awareness  
+- 🎓 B.Tech CSE (2023–2027), CGPA: 9.02  
+- 🧠 Solved 475+ DSA problems (LeetCode, CodeChef)  
+- 🏆 ICPC Prelims AIR 1690  
+- 💡 Backend Developer (Node.js, Express, MongoDB)  
+- ☁️ Experience with AWS (S3, EC2), Docker basics  
+- 🤖 Interested in AI-driven applications  
+- 🚀 Always learning and building  
 
 ---
 
-## 🏆 Consistency & Achievements  
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/365%20Days-LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/100%20Days-CodeChef-brown?style=for-the-badge&logo=codechef" />
-  <img src="https://img.shields.io/badge/Gold-HackerRank-green?style=for-the-badge&logo=hackerrank" />
+  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/50/000000/codechef.png"/></a>
 </p>
+
+---
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Consistency-Superpower-blueviolet?style=for-the-badge" />
+  <a href="mailto:tulasiramboyina16@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧰 Tech Stack  
+## 🛠️ Skills
 
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
-</p>
-
-### ⚙️ Backend & Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🛠️ Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+### 💻 Programming Languages
+<p align="center">
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+### ⚙️ Backend
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Database & Cloud
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🔹 WanderLust — Travel Listing Platform  
+- 🔹 Git-Inspired Version Control System  
+- 🔹 Rewind — Problem Solving Analytics Tool  
+
+---
+
+## 🏆 Achievements
+
+- ⭐ Solved 475+ DSA problems  
+- ⭐ 2⭐ CodeChef  
+- ⭐ ICPC Prelims AIR 1690  
+- ⭐ Reliance Foundation Scholar  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boyinatulasiram&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boyinatulasiram&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyinatulasiram&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧪 Project Philosophy  
-
-✅ Clean code  
-⚡ Performance-first  
-🔐 Security-aware  
-🎯 User-centric  
-
-> *If it doesn’t simplify life or solve a real problem — it’s not finished.*
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced **DSA Patterns**
-- **System Design Fundamentals**
-- **AI / ML Foundations**
-- Backend **Scalability & Optimization**
-
----
-
-## 🤝 Let’s Connect  
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-blue?style=for-the-badge" />
-</p>
-
-⭐ If you like my work, **star a repo** — it motivates me to build more 🚀  
-
----
-
-<p align="center">
-  <b>“Consistency is a superpower.”</b>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
 </p>
