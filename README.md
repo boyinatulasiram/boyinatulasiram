@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tulasi Ram Boyina</h1>
+<h1 align="center">Hi 👋, I'm Tulasi Ram</h1>
 <h3 align="center">FULL-STACK DEV | PROBLEM SOLVER | TECH EXPLORER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boyinatulasiram&label=Profile%20views&color=0e75b6&style=flat" alt="boyinatulasiram" /> </p>
