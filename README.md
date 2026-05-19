@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/boyinatulasiram/boyinatulasiram/blob/output/github-contribution-grid-snake.svg?" />
+	<img src="https://raw.githubusercontent.com/boyinatulasiram/boyinatulasiram/output/github-contribution-grid-snake.svg" />
 </p>
 
 <div align="center">
