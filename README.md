@@ -1,206 +1,376 @@
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=boyinatulasiram&style=plastic&color=blueviolet" />
-</p>
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/boyinatulasiram/boyinatulasiram/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
 <div align="center">
 
-![Top](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Tulasi+Ram;Backend+%26+Systems+Engineer" />
 
-<details open>
-<summary>Open Profile</summary>
 
-<br>
 
-<div align=center>
-  <img height="200" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"/>
 </div>
 
-<div align=center>
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=6A0572&center=true&vCenter=true&width=600&lines=Hi,+I'm+Tulasi+Ram;Backend+Developer;DSA+Enthusiast;Building+Scalable+Systems;475%2B+Problems+Solved;Future+SDE" />
+
+### `Backend Engineering` • `Networking` • `Cloud Infrastructure` • `DSA`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=boyinatulasiram&style=for-the-badge&color=7C3AED"/>
+
+</div>
+
+
+
+
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=7B68EE&center=true&vCenter=true&width=900&lines=Backend+Focused+Software+Developer;Building+Scalable+Systems;REST+APIs+%7C+Cloud+%7C+Networking;475%2B+DSA+Problems+Solved;Future+Software+Development+Engineer" />
+
 </div>
 
 ---
 
-<details open>
-<summary>About Me</summary>
+#  About Me
 
 ```cpp
 class TulasiRam {
 public:
-    string location = "India";
-    string role = "Backend-focused Software Developer";
+    string role = "Backend & Systems Engineer";
 
-    vector<string> languages = {"C++", "Java", "Python", "JavaScript"};
-
-    vector<string> specialization = {
-        "Backend Systems",
-        "REST API Design",
-        "Scalable Architecture",
-        "DSA"
+    vector<string> interests = {
+        "Backend Engineering",
+        "Networking & Infrastructure",
+        "System Design",
+        "Scalable Architectures"
     };
 
     vector<string> techStack = {
-        "Node.js", "Express.js", "MongoDB", "MySQL",
-        "AWS", "Docker"
+        "Node.js", "Express.js", "MongoDB",
+        "MySQL", "AWS", "Docker"
     };
 
-    int problemsSolved = 475;
+    vector<string> languages = {
+        "Java", "C++", "Python", "JavaScript"
+    };
 
-    string currentFocus = "Building scalable, high-performance systems";
+    int dsaSolved = 1000+;
 
-    void build() {
-        cout << "Turning ideas into scalable systems 🚀";
-    }
+    string currentFocus =
+        "Building scalable backend systems and strengthening networking fundamentals";
 };
 ```
 
-</details>
 
----
+<br/>
 
-<details open>
-<summary>Tech Stack</summary>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+#  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr>
+<td align="center" width="50%">
+<br/>
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+###  Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,c&theme=dark" />
+
+</td>
+
+<td align="center" width="50%">
+
+###  Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLI_Tools-0F172A?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚙️ Backend
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+###  Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+
+</td>
+
+<td align="center" width="50%">
+
+###  Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,postman&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗄️ Databases
+<div align="center">
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+###  Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
-### ☁️ Cloud & DevOps
+<br/><br/>
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
----
-
-### 🎨 Frontend
-
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://img.shields.io/badge/Responsive_UI-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Modern_Web_Apps-7C3AED?style=for-the-badge" />
 
 </div>
 
-</details>
+</div>
 
 ---
+<br/>
 
-<details open>
-<summary>Projects</summary>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🚀 Git-Inspired Repository System
+<br/>
 
-* Version control system with commit tracking & issue workflows
-* CLI tool (Yargs) with 8+ commands
-* AWS S3 integration for scalable storage
+#  Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌍 WanderLust — Travel Platform
+<h3>TrackChange</h3>
 
-* Built full-stack platform with 10+ REST APIs
-* Implemented JWT authentication + RBAC
-* Optimized MongoDB queries → **30% latency reduction**
-
----
-
-### 📊 Rewind — DSA Analytics Tool
-
-* Tracks problem-solving performance
-* Identifies weak areas & generates insights
-* Integrated AI (Gemini API) for recommendations
-
-</details>
-
----
-
-<details open>
-<summary>Achievements</summary>
-
-* 🧠 Solved **475+ DSA problems**
-* ⭐ CodeChef 2★
-* 🏆 ICPC Prelims AIR 1690
-* 🎓 Reliance Foundation Scholar
-
-</details>
-
----
-
-<details open>
-<summary>GitHub Stats</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boyinatulasiram&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boyinatulasiram&theme=tokyonight" />
+<p>
+Git-inspired repository management system focused on version tracking, commit workflows, and repository operations.
 </p>
 
-</details>
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
+
+<ul>
+<li>Implemented repository, commit, and issue tracking workflows</li>
+<li>Built REST APIs and CLI tooling using Yargs</li>
+<li>Integrated AWS S3 for versioned commit storage</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://res.cloudinary.com/davivudbr/image/upload/v1779543435/Screenshot_2026-05-23_190654_mx4ckc.png"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<details open>
-<summary>Currently Learning</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* System Design (scalability, load handling)
-* Advanced Backend Patterns
-* Distributed Systems
+<h3>WanderLust</h3>
 
-</details>
+<p>
+Full-stack travel listing platform supporting property management, authentication, and optimized database querying.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT_Auth-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br/><br/>
+
+<ul>
+<li>Developed secure authentication and authorization workflows</li>
+<li>Built scalable backend APIs using Express.js</li>
+<li>Optimized query performance using indexing and pagination</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://res.cloudinary.com/davivudbr/image/upload/v1779543119/Screenshot_2026-05-23_185849_yspynq.png"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<details open>
-<summary>Connect</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Infolio</h3>
+
+<p>
+Dynamic portfolio generation platform focused on customizable rendering workflows and reusable backend architecture.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/EJS-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend_Rendering-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<br/><br/>
+
+<ul>
+<li>Generating customizable portfolio websites from structured input</li>
+<li>Building reusable rendering and templating workflows</li>
+<li>Working on deployment and theme customization systems</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://res.cloudinary.com/davivudbr/image/upload/v1779543375/Screenshot_2026-05-23_190555_ssxrfl.png"/>
+
+</td>
+</tr>
+</table>
+
+
+---
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+#  Achievements
+
+*  Solved **1000+ DSA problems** across LeetCode & CodeChef
+*  CodeChef **2★**
+* 🏅 ICPC Prelims AIR 1690
+*  Reliance Foundation Scholar (2023–2027)
+
+---
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+#  Certifications
+
+* Cisco Networking Academy — Introduction to Networks (CCNA1)
+* Cisco Networking Academy — Switching, Routing & Wireless Essentials (CCNA2)
+* Cisco Networking Academy — Enterprise Networking, Security & Automation (CCNA3)
+* NPTEL — Programming in Java
+
+---
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+#  GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=boyinatulasiram&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=boyinatulasiram&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyinatulasiram&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+
+#  Development Activity
+
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boyinatulasiram/boyinatulasiram/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boyinatulasiram/boyinatulasiram/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/boyinatulasiram/boyinatulasiram/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Moving snake devouring my contributions!</sub>
+  
+</div>
+---
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+#  Currently Learning
+
+* Advanced Networking Concepts (CCNA)
+* System Design Fundamentals
+* Distributed Systems Basics
+* Backend Scalability Patterns
+* Cloud Infrastructure
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:trboyina@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/contact-tulasi-ram-boyina">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/boyinatulasiram">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/contact-tulasi-ram-boyina">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
-</details>
-
 ---
 
-<blockquote>
-Consistency beats intensity. Systems beat motivation.
-</blockquote>
+<div align="center">
 
-![Bottom](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+> "Consistency beats intensity. Systems beat motivation."
 
-</details>
 </div>
