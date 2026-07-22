@@ -180,7 +180,7 @@ Git-inspired repository management system focused on version tracking, commit wo
 
 <td width="50%" valign="top">
 
-<img src="https://res.cloudinary.com/davivudbr/image/upload/v1779543435/Screenshot_2026-05-23_190654_mx4ckc.png"/>
+<img src="https://res.cloudinary.com/davivudbr/image/upload/v1784697936/Screenshot_2026-07-22_105134_di4rca.png"/>
 
 </td>
 </tr>
