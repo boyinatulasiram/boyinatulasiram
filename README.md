@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=800&size=44&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&height=70&lines=Tulasi+Ram" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=800&height=40&lines=Backend+%26+Systems+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9A%A1;REST+APIs+%7C+Cloud+%7C+Networking+%F0%9F%8C%90;475%2B+DSA+Problems+Solved+%F0%9F%A7%A9" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=800&height=40&lines=Backend+%26+Systems+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9A%A1;REST+APIs+%7C+Cloud+%7C+Networking+%F0%9F%8C%90;1000%2B+DSA+Problems+Solved+%F0%9F%A7%A9" />
 
 <br/>
 
