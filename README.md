@@ -38,7 +38,7 @@ public:
     vector<string> stack   = {"Node.js", "Express.js", "MongoDB", "MySQL", "AWS", "Docker"};
     vector<string> langs   = {"Java", "C++", "Python", "JavaScript"};
 
-    int dsaSolved = 1000;      // LeetCode + CodeChef
+    int dsaSolved = 1000;      // LeetCode + CodeChef + HackerRank
     bool caffeinated = true;
 };
 ```
