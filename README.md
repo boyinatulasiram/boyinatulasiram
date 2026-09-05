@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./ChatGPT Image Aug 17, 2026, 09_45_20 PM.png" alt="Tulasi Ram  - Custom GitHub README Header" width="600" />
+  <img src="./ChatGPT Image Aug 17, 2026, 09_45_20 PM.png" alt="Tulasi Ram Boyina - Custom GitHub README Header" width="600" />
 </p>
 
 
